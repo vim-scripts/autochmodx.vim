@@ -1,0 +1,16 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4273
+
+If a current file looks like an executable script,
+make it by executable running "chmod +x %".
+
+Requirements:
+- Vim 7.2 or later
+
+Latest version:
+http://github.com/tyru/autochmodx.vim
+
+Latest document:
+https://github.com/tyru/autochmodx.vim/blob/master/doc/autochmodx.txt
+
+Latest document with syntax highlight:
+http://vim-doc.heroku.com/view?https://raw.github.com/tyru/autochmodx.vim/master/doc/autochmodx.txt
